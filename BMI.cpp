@@ -18,7 +18,7 @@ int main()
 
   cout << "\n" << height << " and " << height_in << " with " << weight <<  "lbs\n";
 
-
+  cout << "\n";
 
   return 0;
 }
